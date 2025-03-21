@@ -1,0 +1,13 @@
+{
+  "id" : "https://bpitteloud.github.io/CAS-DMIT-IIIF/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in bpitteloud/CAS-DMIT-IIIF project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://bpitteloud.github.io/CAS-DMIT-IIIF/manifests/IIIFManifest_1072055610.json",
+    "label" : "1072055610"
+  } ]
+}
